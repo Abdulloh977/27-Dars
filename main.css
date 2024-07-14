@@ -1,0 +1,455 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1440px;
+  margin: auto;
+  padding: 0 20px;
+}
+body {
+  background-color: black;
+}
+.robotiko_wrrap {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  background-color: black;
+}
+.robotiko_a {
+  margin-left: 400px;
+}
+.href {
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.home {
+  color: #7B8CE5;
+}
+.robotiko_btn {
+  width: 205px;
+  height: 75px;
+  border-radius: 100px;
+  padding: 20px 32px 20px 32px;
+  background-color: #7B8CE5;
+  color: white;
+  font-size: 15px;
+}
+.robot_box {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  background-color: black;
+  background-image: url(./B0C2C9LJNQ.html);
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.robot_text {
+  width: 606px;
+  height: 377px;
+  margin-right: 850px;
+  color: #D8D8D8;
+}
+.robot_text_heading {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 65px;
+  background: linear-gradient(90.27deg, #FFC9FD -1.98%, #7C8DE6 23.87%, #A6EFFF 56.69%);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.robot_text_pargrf {
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.robot_text_heading_two {
+  width: 550px;
+  height: 150px;
+  padding-top: 1px;
+  margin-left: -0px;
+  padding-bottom: 1px;
+  padding-left: -50px;
+  color: #ffffff;
+  font-size: 65px;
+}
+.robot_text_bottom {
+  width: 550px;
+  height: 78px;
+  margin-left: -0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #D8D8D8;
+}
+.btn {
+ margin-top: 30px;
+}
+.robot_img {
+  width: 750px;
+  height: 600px;
+  margin-left: 590px;
+  margin-top: -480px;
+  background-image: url("https://photos5.appleinsider.com/gallery/59195-120810-Apple-Robot-AI-xl.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.brend_box {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  padding-left: 0px;
+  background-color: black;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-style: normal;
+}
+.pargrf_About {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.brend_text_pargrf_one {
+  width: 616px;
+  height: 154px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 35px;
+  margin-top: 120px;
+  margin-left: 150px;
+  color: white;
+}
+.brend_bottom {
+  width: 1140px;
+  height: 224px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: black;
+  display: flex;
+}
+.bottom_one {
+  width: 310px;
+  height: 224px;
+  color: white;
+}
+.blak {
+  width: 64px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 64px;
+  margin-right: 500px;
+  background-color: #151721;
+}
+.bottom_heading {
+  padding: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  margin-left: -7px;
+}
+.brend_img {
+  width: 1140px;
+  height: 414px;
+  margin-top: 70px;
+  border: 1px solid #1B255E;
+}
+.img_top {
+  display: flex;
+}
+.img_four {
+  width: 500px;
+  height: 207px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  border: 1px solid #1B255E;
+}
+.img_four_img {
+  margin-left: 50px;
+}
+.img_btm {
+  display: flex;
+}
+.img_four_img_1 {
+  margin-left: 105px;
+}
+.info_top {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  background-color: black;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-style: normal;
+}
+.top_text {
+  width: 1360px;
+  height: 768px;
+  margin-left: -5px;
+  display: flex;
+}
+.brend_text_pargrf_one_info {
+  width: 657px;
+  height: 244px;
+  margin-left: 70px;
+  color: white;
+  font-size: 35px;
+}
+.info_btn_tree {
+ margin-right: -100px;
+}
+.info_footer_img {
+  width: 657px;
+  height: 457px;
+  margin-left: 25px;
+}
+.info_footer {
+  display: flex;
+  margin-top: -200px;
+}
+.footer_text_one_img {
+  width: 44px;
+  height: 48px;
+  margin-left: -10px;
+  margin-top: -5px;
+  padding: 10px 10px 10px 10px;
+}
+.footer_text_one {
+  align-items: end;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.info_footer_text {
+  width: 386px;
+  height: 430px;
+  margin-left: 50px;
+}
+.footer_text {
+  color: white;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: -45px;
+}
+.text_1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.money_box {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #000;
+  display: flex;
+}
+.money_one {
+  width: 271px;
+  height: 271px;
+  text-align: center;
+  margin-right: 40px;
+  margin-left: 40px;
+  background-color: #151721;
+}
+.money_pragrf {
+  font-size: 50px;
+  color: white;
+  margin-top: 80px;
+}
+.money_text {
+  font-size: 20px;
+  color: white;
+  margin-top: 40px;
+}
+.money_one_2 {
+  width: 271px;
+  height: 271px;
+  margin-right: 40px;
+  margin-left: 40px;
+  text-align: center;
+  background-color: #7B8CE5;
+}
+.section_6 {
+  width: 1141px;
+  height: 758px;
+  margin-top: -200px;
+}
+.section_one {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.bottom_one_1 {
+  width: 367px;
+  height: 358px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding: 30px;
+  color: white;
+  font-size: 20px;
+  background-color: #151721;
+}
+.blak1 {
+  width: 64px;
+  height: 64px;
+  margin-left: -0px;
+  background-color: #1B255E;
+}
+.bottom_heading1 {
+  font-size: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.two_1 {
+  background-color: #1B255E;
+}
+.black2 {
+  background-color: #000;
+}
+.the_top {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+}
+.text_top_1 {
+  width: 520px;
+  height: 154px;
+  color: white;
+}
+.the_top_text {
+  margin-left: 150px;
+  margin-top: 100px;
+}
+.the_text_1 {
+  font-size: 16px;
+  padding-top: 70px;
+  padding-bottom: 10px;
+}
+.the_text_2 {
+  font-size: 60px;
+  margin-top: 30px;
+}
+.the_2 {
+  margin-left: -5px;
+  font-size: 19px;
+  margin-top: 100px;
+  margin-bottom: 210px;
+}
+.the_img {
+  margin-left: 600px;
+  margin-top: -600px;
+}
+.world_box {
+  background-color: #151721;
+  padding-top: 150px;
+}
+.box_span {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  margin-left: 300px;
+  padding-bottom: 50px;
+}
+.box_span2 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+.box_span1 {
+  background: linear-gradient(90.27deg, #FFC9FD -1.98%, #7C8DE6 23.87%, #A6EFFF 56.69%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-size: 50px;
+}
+.world_one {
+  width: 458px;
+  height: 312px;
+  background-color: #000;
+  color: white;
+  font-size: 20px;
+  padding: 30px;
+}
+.world_top {
+  padding: 200px;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 26px;
+}
+.world_one_text {
+  width: 64px;
+  height: 64px;
+  margin-left: -5px;
+  margin-top: 50px;
+  background-color: #1B255E;
+  border-radius: 100px;
+}
+.world_one_text_heading {
+  font-size: 20px;
+  margin-left: 70px;
+  margin-top: -50px;
+}
+.world_one_text_paragrf {
+  font-size: 15px;
+  margin-left: 70px;
+
+}
+.footer_box_finish {
+  padding-top: 70px;
+}
+.footer_img {
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.footer_tree {
+  width: 500px;
+  height: 184px;
+  color: #FFFFFF;
+  margin-left: -50px;
+  margin-top: 100px;
+  display: flex;
+}
+.box_textra a{
+  color: #D8D8D8;
+  text-decoration: none;
+  display: block;
+  line-height: 23.44px;
+}
+.footer_right {
+  width: 212px;
+  height: 23px;
+  margin-right: -500px;
+  margin-top: 1px;
+  font-size: 15px;
+  color: white;
+}
+.right_btn {
+  width: 145px;
+  height: 20px;
+  border-radius: 100px;
+  padding: 20px 32px 20px 32px;
+  background-color: #7B8CE5;
+  color: white;
+  border: 0;
+  font-size: 15px;
+}
+.right_input {
+  width: 358px;
+  height: 54px;
+  border-radius: 100px;
+  padding: 10px 22px 10px 22px;
+  border: 0;
+  outline: 0px;
+}
+.footer_right_top {
+  display: flex;
+  gap: 16px;
+}
+.footer_top {
+  width: 1400px;
+  height: 26px;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
